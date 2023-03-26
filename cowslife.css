@@ -1,0 +1,39 @@
+body{
+	background-color:black;
+}
+
+.heading{
+	margin:0;text-align:center; font-family:'Roboto Mono',monospace;color:whitesmoke;
+}
+
+h2{
+	margin:0;font-family:'Roboto Mono',monospace;text-align:center;color:whitesmoke;
+}
+
+.minor{
+	margin:0;margin-bottom:80px;font-family:'Roboto Mono',monospace;text-align:center;color:whitesmoke;
+}
+
+p{
+	margin-bottom:20px;margin-left:50px;margin-right:50px;font-family:'Source Code Pro',monospace;text-indent:50px;text-align:justify;color:whitesmoke;
+}
+
+.special{
+	margin-bottom:100px;
+}
+
+.button{
+	margin: 0 auto;display: block;border:solid;border-color:darkred;background-color:red;border-radius:5px;width:100px;height:40px;color:white;transition:.15s;
+}
+
+.button:hover{
+	cursor:pointer;background-color:pink;border-color:red;color:black;
+}
+
+.button:active{
+	cursor:pointer;background-color:whitesmoke;border-color:pink;color:black;
+}
+
+h4{
+	margin:0;text-align:right;margin-right:50px;color:whitesmoke;
+}
